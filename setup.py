@@ -11,7 +11,7 @@ setup(
     description='Parse MySQL XML datadump',
     author='John Nguyen',
     author_email='jolnguyen@ucdavis.edu',
-    url='https://github.com/JohnlNguyen/XML-Parser',
+    url='https://github.com/JohnlNguyen/xml-parser',
     packages=['parse'],
     zip_safe=False,
 )
